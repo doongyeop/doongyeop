@@ -7,7 +7,7 @@
 
 <!--📫 저와 연락하려면 [이메일 주소](mailto:adcd@gmail.com)로 메일을 보내주세요. -->
 
-## Tech Stacks
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
