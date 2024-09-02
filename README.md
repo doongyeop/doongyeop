@@ -15,8 +15,8 @@
 > **[운동 플랫폼 & 커뮤니티](https://github.com/doongyeop/LactoFit)**<br>
 ### 옷짱 : OZZ
 > **[옷장 관리 & 코디 추천 서비스](https://github.com/doongyeop/OZZ)**
-### Sel (신한은행 해커톤 FOR SSAFY)
-> **소비분석을 통한 ESG활동 참여 서비스**
+### SEL (Shinhan-Eco-Leading)
+> **신한은행 해커톤 FOR SSAFY 본선, 소비분석을 통한 ESG활동 참여 서비스**
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-000000?style=ROUND&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=ROUND&logo=spring-boot&logoColor=white)
