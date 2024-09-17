@@ -7,7 +7,7 @@
 ## Awards
 **SSAFY 1학기 관통프로젝트 서울 5반 최우수상**<br>
 **SSAFY 2학기 공통프로젝트 우수상**  
-**신한은행 해커톤 FOR SSAFY 본선 TOP7**  
+**신한은행 해커톤 FOR SSAFY 본선 결선**  
 
 ## Projects
 <!--### 졸업 논문
