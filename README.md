@@ -15,7 +15,7 @@
 ### LactoFit
 > **[운동 플랫폼 & 커뮤니티](https://github.com/doongyeop/LactoFit)**  
 ### 옷짱 : OZZ
-> **[옷장 관리 & 코디 추천 서비스](https://github.com/doongyeop/OZZ_Mirror)**
+> **[옷장 관리 & 코디 추천 서비스](https://github.com/doongyeop/OZZ)**
 ### SEL (Shinhan-Eco-Leading)
 > **소비분석을 통한 ESG활동 참여 서비스**
 ### SCV
