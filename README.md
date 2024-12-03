@@ -17,7 +17,7 @@
 ### 옷짱 : OZZ
 > **[옷장 관리 & 코디 추천 서비스](https://github.com/doongyeop/OZZ)**
 ### SEL (Shinhan-Eco-Leading)
-> **소비분석을 통한 ESG활동 참여 서비스**
+> **[소비분석을 통한 ESG활동 참여 서비스](https://github.com/doongyeop/SEL)**
 ### SCV
 > **[블록코딩 인터페이스를 활용한 딥러닝 모델 개발 플랫폼](https://github.com/doongyeop/SCV)**
 
