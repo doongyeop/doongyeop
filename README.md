@@ -1,5 +1,6 @@
 # 이동엽 (LEE DONG YEOP) 👋  
-
+(~24.02) 건국대학교 산업경영공학부 산업공학과  
+(~24.12) 삼성 청년 SW아카데미 For Youth 11기 
 
 ## Projects
 
@@ -15,11 +16,13 @@
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-000000?style=ROUND&logo=openjdk&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=ROUND&logo=json-web-tokens&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=ROUND&logo=spring-boot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=ROUND&logo=hibernate&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=ROUND&logo=spring-security&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=ROUND&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=ROUND&logo=json-web-tokens&logoColor=white)<br>
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=ROUND&logo=spring&logoColor=white)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=ROUND&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=ROUND&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=ROUND&logo=redis&logoColor=white)<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=ROUND&logo=git&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=ROUND&logo=notion&logoColor=white)
