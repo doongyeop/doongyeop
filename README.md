@@ -1,6 +1,6 @@
 # 이동엽 (LEE DONG YEOP) 👋  
-(~24.02) 건국대학교 산업경영공학부 산업공학과  
-(~24.12) 삼성 청년 SW아카데미 For Youth 11기 
+건국대학교 산업경영공학부 산업공학과 
+삼성 청년 SW아카데미 For Youth 11기 
 
 ## Projects
 
@@ -29,3 +29,15 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=ROUND&logo=jira&logoColor=white)<br>
 
 ## Contact
+<a href="https://www.linkedin.com/in/doongyeop/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
+</a>
+
+<hr>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doongyeop&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/doongyeop"
+  width="600"
+  height="300"
+/>
+</a>
