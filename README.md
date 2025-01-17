@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=31&pause=1000&color=109238&width=435&lines=DongYeop's+GitHub)](https://git.io/typing-svg)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoongyeop&count_bg=%23109238&title_bg=%236D6D6D&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Solved.ac
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoongyeop&count_bg=%23129038&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leedy977)](https://solved.ac/leedy977)  
 건국대학교 산업경영공학부 산업공학과  
 삼성 청년 SW아카데미 For Youth 11기 
