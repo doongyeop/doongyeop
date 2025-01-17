@@ -1,17 +1,21 @@
-# 이동엽 (LEE DONG YEOP) 👋  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=31&pause=1000&color=109238&width=435&lines=DongYeop's+GitHub)](https://git.io/typing-svg)  
 건국대학교 산업경영공학부 산업공학과  
 삼성 청년 SW아카데미 For Youth 11기 
 
 ## Projects
 
-### LactoFit
-> **[운동 플랫폼 & 커뮤니티](https://github.com/doongyeop/LactoFit)**  
-### 옷짱 : OZZ
-> **[옷장 관리 & 코디 추천 서비스](https://github.com/doongyeop/OZZ)**
-### SEL (Shinhan-Eco-Leading)
-> **[소비분석을 통한 ESG활동 참여 서비스](https://github.com/doongyeop/SEL)**
-### SCV
-> **[블록코딩 인터페이스를 활용한 딥러닝 모델 개발 플랫폼](https://github.com/doongyeop/SCV)**
+### **[LactoFit: 운동 플랫폼 & 커뮤니티](https://github.com/doongyeop/LactoFit)** 
+> Web  
+> Spring Boot, MySQL, MyBatis, Google API, OpenAI API  
+### **[옷짱(OZZ): 옷장 관리 & 코디 추천 플랫폼](https://github.com/doongyeop/OZZ)**
+> Web App(PWA)  
+> Spring Boot, Spring Security, Spring Cloud, Eureka, JPA, MySQL, Redis  
+### **[SEL(Shinhan-Eco-Leading): 소비분석을 통한 ESG활동 참여 독려](https://github.com/doongyeop/SEL)**
+> Web App(PWA)  
+> Spring Boot, MySQL, JPA  
+### **[SCV: 블록코딩 인터페이스를 활용한 딥러닝 모델 개발 플랫폼](https://github.com/doongyeop/SCV)**
+> Web  
+> Spring Boot, MySQL, JPA, RestTemplate  
 
 
 ## Tech Stack
