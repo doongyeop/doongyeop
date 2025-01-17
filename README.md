@@ -5,7 +5,8 @@
 삼성 청년 SW아카데미 For Youth 11기 
 
 ## Projects
-
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=SCV)](https://github.com/doongyeop/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=OZZ)](https://github.com/doongyeop/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=LactoFit)](https://github.com/doongyeop/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=SEL)](https://github.com/doongyeop/github-readme-stats) -->
 ### **[LactoFit: 운동 플랫폼 & 커뮤니티](https://github.com/doongyeop/LactoFit)** 
 > Web  
 > Spring Boot, MySQL, MyBatis, Google API, OpenAI API  
