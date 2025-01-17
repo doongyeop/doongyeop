@@ -40,12 +40,12 @@
 </a>
 
 <hr>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doongyeop&hide=typescript,python,vue,ejs&layout=compact)](https://github.com/doongyeop/github-readme-stats)<img src="http://mazandi.herokuapp.com/api?handle=leedy977&theme=cold"/>  
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=doongyeop&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/doongyeop"
   width="600"
   height="300"
 />
-</a>  
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doongyeop&hide=typescript,python,vue,ejs,dockerfile,shell&layout=donut)](https://github.com/doongyeop/github-readme-stats)
