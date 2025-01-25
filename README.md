@@ -5,7 +5,7 @@
 삼성 청년 SW아카데미 For Youth 11기 
 
 ## Projects
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=SCV)](https://github.com/doongyeop/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=OZZ)](https://github.com/doongyeop/github-readme-stats)  
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=SCV)](https://github.com/doongyeop/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=OZZ)](https://github.com/doongyeop/github-readme-stats)   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=LactoFit)](https://github.com/doongyeop/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doongyeop&repo=SEL)](https://github.com/doongyeop/github-readme-stats) -->
 ### **[SCV: 블록코딩 인터페이스를 활용한 딥러닝 모델 개발 플랫폼](https://github.com/doongyeop/SCV)**
 > Web  
