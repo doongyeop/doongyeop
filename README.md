@@ -8,13 +8,13 @@
 
 ### **[SCV: 블록코딩 인터페이스를 활용한 딥러닝 모델 개발 플랫폼](https://github.com/doongyeop/SCV)**
 > Web  
-> Spring Boot, MySQL, JPA, RestTemplate  
+> Spring Boot, MySQL, JPA, RestTemplate
+### **[옷짱(OZZ): 옷장 관리 & 코디 추천 플랫폼](https://github.com/doongyeop/OZZ)**  
+> Web App(PWA)  
+> Spring Boot, Spring Security, Spring Cloud, Eureka, JPA, MySQL, Redis  
 ### **[SEL(Shinhan-Eco-Leading): 소비분석을 통한 ESG활동 참여 독려](https://github.com/doongyeop/SEL)**
 > Web App(PWA)  
 > Spring Boot, MySQL, JPA  
-### **[옷짱(OZZ): 옷장 관리 & 코디 추천 플랫폼](https://github.com/doongyeop/OZZ)**
-> Web App(PWA)  
-> Spring Boot, Spring Security, Spring Cloud, Eureka, JPA, MySQL, Redis  
 ### **[LactoFit: 운동 플랫폼 & 커뮤니티](https://github.com/doongyeop/LactoFit)** 
 > Web  
 > Spring Boot, MySQL, MyBatis, Google API, OpenAI API  
