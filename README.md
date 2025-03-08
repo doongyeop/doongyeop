@@ -32,7 +32,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=ROUND&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=ROUND&logo=jira&logoColor=white)<br>
 
-## Contact
+## Contact  
 <a href="https://www.linkedin.com/in/doongyeop/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
 </a>
