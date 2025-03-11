@@ -34,7 +34,7 @@
 
 ## Contact  
 <a href="https://www.linkedin.com/in/doongyeop/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"> 
 </a>  
  
 <hr>
