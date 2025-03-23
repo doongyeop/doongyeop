@@ -4,7 +4,7 @@
 건국대학교 산업경영공학부 산업공학과  
 삼성 청년 SW아카데미 For Youth 11기 
 
-## Projects  
+## Projects 
 
 ### **[SCV: 블록코딩 인터페이스를 활용한 딥러닝 모델 개발 플랫폼](https://github.com/doongyeop/SCV)**
 > Web  
