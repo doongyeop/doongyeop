@@ -2,7 +2,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leedy977)](https://solved.ac/leedy977)  
 건국대학교 산업경영공학부 산업공학과  
-삼성 청년 SW아카데미 For Youth 11기 
+삼성 청년 SW아카데미 For Youth 11기
 
 ## Projects 
 
