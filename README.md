@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Knewave&size=31&pause=1000&color=109238&width=435&lines=DongYeop's+GitHub)](https://git.io/typing-svg)  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leedy977)](https://solved.ac/leedy977)  
+<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leedy977)](https://solved.ac/leedy977)  -->
 건국대학교 산업경영공학부 산업공학과  
 삼성 청년 SW아카데미 For Youth 11기
 
@@ -12,12 +11,12 @@
 ### **[옷짱(OZZ): 옷장 관리 & 코디 추천 플랫폼](https://github.com/doongyeop/OZZ)**  
 > Web App(PWA)  
 > Spring Boot, Spring Security, Spring Cloud, Eureka, JPA, MySQL, Redis  
-### **[SEL(Shinhan-Eco-Leading): 소비분석을 통한 ESG활동 참여 독려](https://github.com/doongyeop/SEL)**
+<!--### **[SEL(Shinhan-Eco-Leading): 소비분석을 통한 ESG활동 참여 독려](https://github.com/doongyeop/SEL)**
 > Web App(PWA)  
 > Spring Boot, MySQL, JPA  
 ### **[LactoFit: 운동 플랫폼 & 커뮤니티](https://github.com/doongyeop/LactoFit)** 
 > Web  
-> Spring Boot, MySQL, MyBatis, Google API, OpenAI API  
+> Spring Boot, MySQL, MyBatis, Google API, OpenAI API  -->
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-000000?style=ROUND&logo=openjdk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=ROUND&logo=json-web-tokens&logoColor=white)  
@@ -46,4 +45,4 @@
 />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doongyeop&hide=typescript,python,vue,ejs,dockerfile,shell&layout=donut)](https://github.com/doongyeop/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doongyeop&hide=typescript,vue,ejs,dockerfile,shell&layout=donut)](https://github.com/doongyeop/github-readme-stats)
