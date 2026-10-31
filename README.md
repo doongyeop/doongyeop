@@ -18,8 +18,7 @@
 > Web  
 > Spring Boot, MySQL, MyBatis, Google API, OpenAI API  -->
 ## Tech Stack
-![Java](https://img.shields.io/badge/Java-000000?style=ROUND&logo=openjdk&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=ROUND&logo=json-web-tokens&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-000000?style=ROUND&logo=openjdk&logoColor=white)<br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=ROUND&logo=spring-boot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=ROUND&logo=hibernate&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=ROUND&logo=spring-security&logoColor=white)
@@ -27,9 +26,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=ROUND&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=ROUND&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=ROUND&logo=redis&logoColor=white)<br>
-![Git](https://img.shields.io/badge/Git-F05032?style=ROUND&logo=git&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?style=ROUND&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=ROUND&logo=jira&logoColor=white)<br>
 
 ## Contact  
 <a href="https://www.linkedin.com/in/doongyeop/">
@@ -45,4 +41,3 @@
 />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doongyeop&hide=typescript,vue,ejs,dockerfile,shell&layout=donut)](https://github.com/doongyeop/github-readme-stats)
